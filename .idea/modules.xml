@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Springboot_RabbitMq.iml" filepath="$PROJECT_DIR$/.idea/Springboot_RabbitMq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s_b_productor/productor.iml" filepath="$PROJECT_DIR$/s_b_productor/productor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s_b_consume/s_b_consume.iml" filepath="$PROJECT_DIR$/s_b_consume/s_b_consume.iml" />
+    </modules>
+  </component>
+</project>
