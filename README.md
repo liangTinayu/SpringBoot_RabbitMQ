@@ -1,0 +1,2 @@
+# SpringBoot_RabbitMQ
+rabbitmq整合到springboot中
